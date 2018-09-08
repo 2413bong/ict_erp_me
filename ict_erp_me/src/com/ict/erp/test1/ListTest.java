@@ -1,4 +1,4 @@
-package com.ict.erp.test;
+package com.ict.erp.test1;
 
 public class ListTest {
 

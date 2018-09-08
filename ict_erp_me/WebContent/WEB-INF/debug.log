@@ -1,0 +1,60 @@
+[2018-09-03 12:04:58,394]TRACE (AuthFilter.java:33):/
+[2018-09-03 12:04:58,394]TRACE (AuthFilter.java:33):/
+[2018-09-03 12:04:58,394]TRACE (AuthFilter.java:33):/left.jsp
+[2018-09-03 12:04:58,400]DEBUG (AuthFilter.java:34):/left.jsp
+[2018-09-03 12:04:58,400] INFO (AuthFilter.java:35):/left.jsp
+[2018-09-03 12:04:58,400]DEBUG (AuthFilter.java:34):/
+[2018-09-03 12:04:58,400]DEBUG (AuthFilter.java:34):/
+[2018-09-03 12:04:58,401] INFO (AuthFilter.java:35):/
+[2018-09-03 12:04:58,401] WARN (AuthFilter.java:36):/
+[2018-09-03 12:04:58,401]ERROR (AuthFilter.java:37):/
+[2018-09-03 12:04:58,401]FATAL (AuthFilter.java:38):/
+[2018-09-03 12:04:58,401] INFO (AuthFilter.java:35):/
+[2018-09-03 12:04:58,401] WARN (AuthFilter.java:36):/
+[2018-09-03 12:04:58,401] WARN (AuthFilter.java:36):/left.jsp
+[2018-09-03 12:04:58,402]ERROR (AuthFilter.java:37):/
+[2018-09-03 12:04:58,402]FATAL (AuthFilter.java:38):/
+[2018-09-03 12:04:58,402]ERROR (AuthFilter.java:37):/left.jsp
+[2018-09-03 12:04:58,403]FATAL (AuthFilter.java:38):/left.jsp
+[2018-09-03 12:04:58,761]TRACE (AuthFilter.java:33):/css/simple-sidebar.css
+[2018-09-03 12:04:58,761]TRACE (AuthFilter.java:33):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 12:04:58,761]DEBUG (AuthFilter.java:34):/css/simple-sidebar.css
+[2018-09-03 12:04:58,761] INFO (AuthFilter.java:35):/css/simple-sidebar.css
+[2018-09-03 12:04:58,761] WARN (AuthFilter.java:36):/css/simple-sidebar.css
+[2018-09-03 12:04:58,762]ERROR (AuthFilter.java:37):/css/simple-sidebar.css
+[2018-09-03 12:04:58,761]TRACE (AuthFilter.java:33):/css/common.css
+[2018-09-03 12:04:58,762]FATAL (AuthFilter.java:38):/css/simple-sidebar.css
+[2018-09-03 12:04:58,762]TRACE (AuthFilter.java:33):/vendor/common.js
+[2018-09-03 12:04:58,762]DEBUG (AuthFilter.java:34):/vendor/common.js
+[2018-09-03 12:04:58,762] INFO (AuthFilter.java:35):/vendor/common.js
+[2018-09-03 12:04:58,762] WARN (AuthFilter.java:36):/vendor/common.js
+[2018-09-03 12:04:58,763]ERROR (AuthFilter.java:37):/vendor/common.js
+[2018-09-03 12:04:58,763]FATAL (AuthFilter.java:38):/vendor/common.js
+[2018-09-03 12:04:58,761]TRACE (AuthFilter.java:33):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 12:04:58,763]DEBUG (AuthFilter.java:34):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 12:04:58,764] INFO (AuthFilter.java:35):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 12:04:58,764] WARN (AuthFilter.java:36):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 12:04:58,764]ERROR (AuthFilter.java:37):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 12:04:58,764]FATAL (AuthFilter.java:38):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 12:04:58,761]DEBUG (AuthFilter.java:34):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 12:04:58,769] INFO (AuthFilter.java:35):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 12:04:58,769] WARN (AuthFilter.java:36):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 12:04:58,769]ERROR (AuthFilter.java:37):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 12:04:58,769]FATAL (AuthFilter.java:38):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 12:04:58,761]TRACE (AuthFilter.java:33):/vendor/jquery/jquery.min.js
+[2018-09-03 12:04:58,772]DEBUG (AuthFilter.java:34):/vendor/jquery/jquery.min.js
+[2018-09-03 12:04:58,762]DEBUG (AuthFilter.java:34):/css/common.css
+[2018-09-03 12:04:58,772] INFO (AuthFilter.java:35):/vendor/jquery/jquery.min.js
+[2018-09-03 12:04:58,773] INFO (AuthFilter.java:35):/css/common.css
+[2018-09-03 12:04:58,773] WARN (AuthFilter.java:36):/vendor/jquery/jquery.min.js
+[2018-09-03 12:04:58,773] WARN (AuthFilter.java:36):/css/common.css
+[2018-09-03 12:04:58,773]ERROR (AuthFilter.java:37):/vendor/jquery/jquery.min.js
+[2018-09-03 12:04:58,773]ERROR (AuthFilter.java:37):/css/common.css
+[2018-09-03 12:04:58,773]FATAL (AuthFilter.java:38):/vendor/jquery/jquery.min.js
+[2018-09-03 12:04:58,774]FATAL (AuthFilter.java:38):/css/common.css
+[2018-09-03 12:04:59,408]TRACE (AuthFilter.java:33):/favicon.ico
+[2018-09-03 12:04:59,408]DEBUG (AuthFilter.java:34):/favicon.ico
+[2018-09-03 12:04:59,408] INFO (AuthFilter.java:35):/favicon.ico
+[2018-09-03 12:04:59,408] WARN (AuthFilter.java:36):/favicon.ico
+[2018-09-03 12:04:59,409]ERROR (AuthFilter.java:37):/favicon.ico
+[2018-09-03 12:04:59,409]FATAL (AuthFilter.java:38):/favicon.ico

@@ -1,0 +1,90 @@
+[2018-09-01 13:14:22,584]TRACE (AuthFilter.java:33):/
+[2018-09-01 13:14:22,591]DEBUG (AuthFilter.java:34):/
+[2018-09-01 13:14:22,591] INFO (AuthFilter.java:35):/
+[2018-09-01 13:14:22,591] WARN (AuthFilter.java:36):/
+[2018-09-01 13:14:22,591]ERROR (AuthFilter.java:37):/
+[2018-09-01 13:14:22,592]FATAL (AuthFilter.java:38):/
+[2018-09-01 13:15:30,035]TRACE (AuthFilter.java:33):/
+[2018-09-01 13:15:30,038]DEBUG (AuthFilter.java:34):/
+[2018-09-01 13:15:30,038] INFO (AuthFilter.java:35):/
+[2018-09-01 13:15:30,038] WARN (AuthFilter.java:36):/
+[2018-09-01 13:15:30,039]ERROR (AuthFilter.java:37):/
+[2018-09-01 13:15:30,039]FATAL (AuthFilter.java:38):/
+[2018-09-01 13:15:30,357]TRACE (AuthFilter.java:33):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-01 13:15:30,357]TRACE (AuthFilter.java:33):/vendor/jquery/jquery.min.js
+[2018-09-01 13:15:30,357]TRACE (AuthFilter.java:33):/css/common.css
+[2018-09-01 13:15:30,357]TRACE (AuthFilter.java:33):/css/simple-sidebar.css
+[2018-09-01 13:15:30,357]TRACE (AuthFilter.java:33):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-01 13:15:30,357]TRACE (AuthFilter.java:33):/vendor/common.js
+[2018-09-01 13:15:30,359]DEBUG (AuthFilter.java:34):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-01 13:15:30,359]DEBUG (AuthFilter.java:34):/css/simple-sidebar.css
+[2018-09-01 13:15:30,358]DEBUG (AuthFilter.java:34):/css/common.css
+[2018-09-01 13:15:30,358]DEBUG (AuthFilter.java:34):/vendor/jquery/jquery.min.js
+[2018-09-01 13:15:30,357]DEBUG (AuthFilter.java:34):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-01 13:15:30,360] INFO (AuthFilter.java:35):/vendor/jquery/jquery.min.js
+[2018-09-01 13:15:30,360] WARN (AuthFilter.java:36):/vendor/jquery/jquery.min.js
+[2018-09-01 13:15:30,360]ERROR (AuthFilter.java:37):/vendor/jquery/jquery.min.js
+[2018-09-01 13:15:30,360] INFO (AuthFilter.java:35):/css/common.css
+[2018-09-01 13:15:30,360] INFO (AuthFilter.java:35):/css/simple-sidebar.css
+[2018-09-01 13:15:30,359] INFO (AuthFilter.java:35):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-01 13:15:30,359]DEBUG (AuthFilter.java:34):/vendor/common.js
+[2018-09-01 13:15:30,361] WARN (AuthFilter.java:36):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-01 13:15:30,361] WARN (AuthFilter.java:36):/css/simple-sidebar.css
+[2018-09-01 13:15:30,361] WARN (AuthFilter.java:36):/css/common.css
+[2018-09-01 13:15:30,360]FATAL (AuthFilter.java:38):/vendor/jquery/jquery.min.js
+[2018-09-01 13:15:30,360] INFO (AuthFilter.java:35):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-01 13:15:30,362]ERROR (AuthFilter.java:37):/css/common.css
+[2018-09-01 13:15:30,361]ERROR (AuthFilter.java:37):/css/simple-sidebar.css
+[2018-09-01 13:15:30,361]ERROR (AuthFilter.java:37):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-01 13:15:30,361] INFO (AuthFilter.java:35):/vendor/common.js
+[2018-09-01 13:15:30,362]FATAL (AuthFilter.java:38):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-01 13:15:30,362]FATAL (AuthFilter.java:38):/css/simple-sidebar.css
+[2018-09-01 13:15:30,362]FATAL (AuthFilter.java:38):/css/common.css
+[2018-09-01 13:15:30,362] WARN (AuthFilter.java:36):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-01 13:15:30,363] WARN (AuthFilter.java:36):/vendor/common.js
+[2018-09-01 13:15:30,364]ERROR (AuthFilter.java:37):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-01 13:15:30,364]ERROR (AuthFilter.java:37):/vendor/common.js
+[2018-09-01 13:15:30,365]FATAL (AuthFilter.java:38):/vendor/common.js
+[2018-09-01 13:15:30,364]FATAL (AuthFilter.java:38):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-01 13:15:30,682]TRACE (AuthFilter.java:33):/favicon.ico
+[2018-09-01 13:15:30,682]DEBUG (AuthFilter.java:34):/favicon.ico
+[2018-09-01 13:15:30,682] INFO (AuthFilter.java:35):/favicon.ico
+[2018-09-01 13:15:30,683] WARN (AuthFilter.java:36):/favicon.ico
+[2018-09-01 13:15:30,683]ERROR (AuthFilter.java:37):/favicon.ico
+[2018-09-01 13:15:30,683]FATAL (AuthFilter.java:38):/favicon.ico
+[2018-09-01 13:15:34,071]TRACE (AuthFilter.java:33):/member/memberList
+[2018-09-01 13:15:34,071]DEBUG (AuthFilter.java:34):/member/memberList
+[2018-09-01 13:15:34,071] INFO (AuthFilter.java:35):/member/memberList
+[2018-09-01 13:15:34,071] WARN (AuthFilter.java:36):/member/memberList
+[2018-09-01 13:15:34,071]ERROR (AuthFilter.java:37):/member/memberList
+[2018-09-01 13:15:34,071]FATAL (AuthFilter.java:38):/member/memberList
+[2018-09-01 13:15:39,985]TRACE (AuthFilter.java:33):/member/memberView
+[2018-09-01 13:15:39,986]DEBUG (AuthFilter.java:34):/member/memberView
+[2018-09-01 13:15:39,987] INFO (AuthFilter.java:35):/member/memberView
+[2018-09-01 13:15:39,987] WARN (AuthFilter.java:36):/member/memberView
+[2018-09-01 13:15:39,988]ERROR (AuthFilter.java:37):/member/memberView
+[2018-09-01 13:15:39,988]FATAL (AuthFilter.java:38):/member/memberView
+[2018-09-01 13:17:15,521]TRACE (AuthFilter.java:33):/depart/departList
+[2018-09-01 13:17:15,522]DEBUG (AuthFilter.java:34):/depart/departList
+[2018-09-01 13:17:15,523] INFO (AuthFilter.java:35):/depart/departList
+[2018-09-01 13:17:15,524] WARN (AuthFilter.java:36):/depart/departList
+[2018-09-01 13:17:15,524]ERROR (AuthFilter.java:37):/depart/departList
+[2018-09-01 13:17:15,525]FATAL (AuthFilter.java:38):/depart/departList
+[2018-09-01 13:17:17,994]TRACE (AuthFilter.java:33):/depart/departView
+[2018-09-01 13:17:17,995]DEBUG (AuthFilter.java:34):/depart/departView
+[2018-09-01 13:17:17,996] INFO (AuthFilter.java:35):/depart/departView
+[2018-09-01 13:17:17,996] WARN (AuthFilter.java:36):/depart/departView
+[2018-09-01 13:17:17,997]ERROR (AuthFilter.java:37):/depart/departView
+[2018-09-01 13:17:17,997]FATAL (AuthFilter.java:38):/depart/departView
+[2018-09-01 13:17:20,811]TRACE (AuthFilter.java:33):/music/musicList
+[2018-09-01 13:17:20,812]DEBUG (AuthFilter.java:34):/music/musicList
+[2018-09-01 13:17:20,813] INFO (AuthFilter.java:35):/music/musicList
+[2018-09-01 13:17:20,813] WARN (AuthFilter.java:36):/music/musicList
+[2018-09-01 13:17:20,814]ERROR (AuthFilter.java:37):/music/musicList
+[2018-09-01 13:17:20,814]FATAL (AuthFilter.java:38):/music/musicList
+[2018-09-01 13:17:23,246]TRACE (AuthFilter.java:33):/level/levelList
+[2018-09-01 13:17:23,247]DEBUG (AuthFilter.java:34):/level/levelList
+[2018-09-01 13:17:23,247] INFO (AuthFilter.java:35):/level/levelList
+[2018-09-01 13:17:23,248] WARN (AuthFilter.java:36):/level/levelList
+[2018-09-01 13:17:23,248]ERROR (AuthFilter.java:37):/level/levelList
+[2018-09-01 13:17:23,248]FATAL (AuthFilter.java:38):/level/levelList

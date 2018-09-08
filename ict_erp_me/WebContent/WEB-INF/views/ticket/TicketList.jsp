@@ -65,5 +65,7 @@
 		}
 	}
 	</script>
+	</div>
+	</div>
 	<jsp:include page="/WEB-INF/views/menu/bottom.jsp" />
 </body>

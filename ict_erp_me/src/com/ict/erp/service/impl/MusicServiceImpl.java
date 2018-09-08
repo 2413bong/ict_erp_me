@@ -30,4 +30,34 @@ public class MusicServiceImpl implements MusicService {
 		return null;
 	}
 
+	@Override
+	public int insertMusic(musicChart music) throws SQLException {
+		mcd.setConnection(DBCon.getCon());
+		try {
+			return mcd.insertMusic(music);
+		}catch(Exception e) {
+			throw e;
+		}finally {
+			DBCon.close();
+		}
+	}
+
+	@Override
+	public int updateMusic(musicChart music) throws SQLException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int deleteMusic(int[] music) throws SQLException {
+		mcd.setConnection(DBCon.getCon());
+		try {
+			return mcd.deleteMusic(music);
+		}catch(Exception e) {
+			throw e;
+		}finally {
+			DBCon.close();
+		}
+	}
+
 }

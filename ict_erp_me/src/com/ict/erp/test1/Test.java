@@ -1,4 +1,5 @@
-package com.ict.erp.test;
+package com.ict.erp.test1;
+
 
 
 public class Test {
@@ -8,3 +9,4 @@ public class Test {
 		System.out.println(rNum);
 	}
 }
+ 

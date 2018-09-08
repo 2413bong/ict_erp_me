@@ -32,7 +32,7 @@
 			<c:forEach items="${menuList}" var="mi">
 				<tr>
 					<td>${mi.meiNum}</td>
-					<td><a href="/menu/menuView?meiNum=${mi.meiNum}">${mi.meiName}</a></td>
+					<td onclick="goPage()">  ${mi.meiName}</td>
 					<td>${mi.meiPrice}</td>
 					<td>${mi.meiDesc}</td>
 				</tr>
@@ -44,5 +44,10 @@
 		</div>
 	</div>
 </div>
+<script>
+function goPage() {
+	location.href="/menu/menuView?meiNum="${mi.meiNum}
+}
+</script>
 <jsp:include page="/WEB-INF/views/menu/bottom.jsp" />
 </body>
